@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For SenseMe Bluetooth HC-05
+####################################### 
+# Class
+#######################################
+
+SenseMeBluetooth KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+begin		KEYWORD2
+end		KEYWORD2
+setModuleName	KEYWORD2
+getModuleName 	KEYWORD2
+getDeviceAddr	KEYWORD2
+setSlave		KEYWORD2
+setMaster		KEYWORD2
+#######################################
+# Constants
+#######################################
+ 
+//NEO_GRB		LITERAL1
+
